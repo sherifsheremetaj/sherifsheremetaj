@@ -120,14 +120,6 @@ Gained foundational experience in software development while contributing to civ
 
 ---
 
-## 📊 GitHub Stats
-
-![Sherif's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=blue-green)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=blue-green)
-
----
-
 ## 📫 Let's Connect!
 
 I'm always open to discussing new opportunities, collaboration on interesting projects, or sharing knowledge about software development and computer science education.
