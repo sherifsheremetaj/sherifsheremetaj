@@ -21,7 +21,7 @@ Developing and maintaining scalable microservices using Python and Django REST F
 ---
 
 ### 👨‍🏫 Lecturer in Computer Science  
-**AAB College** | *Mar 2024 – Present*
+**[AAB College](https://aab-edu.net/)** | *Mar 2024 – Present*
 
 Teaching AI and Computer Science topics, focusing on curriculum development, hands-on projects, and bridging theory with real-world applications.
 
@@ -56,7 +56,7 @@ Led development of enterprise-level software solutions and managed technical arc
 ---
 
 ### 💻 Software Developer
-**AAB College** | *Dec 2017 – July 2018*
+**[AAB College](https://aab-edu.net/)** | *Dec 2017 – July 2018*
 
 Developed educational software solutions and contributed to academic technology infrastructure.
 
@@ -104,10 +104,10 @@ Gained foundational experience in software development while contributing to civ
 ## 🎓 Education
 
 ### 🎓 Master of Science in Computer Science
-**AAB College** | *Nov 2018 – Jan 2022*
+**[AAB College](https://aab-edu.net/)** | *Nov 2018 – Jan 2022*
 
 ### 🎓 Bachelor of Science in Computer Science  
-**AAB College** | *Oct 2015 – Jun 2018*
+**[AAB College](https://aab-edu.net/)** | *Oct 2015 – Jun 2018*
 
 ---
 
@@ -120,13 +120,21 @@ Gained foundational experience in software development while contributing to civ
 
 ---
 
+## 📊 GitHub Stats
+
+![Sherif's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=blue-green)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=blue-green)
+
+---
+
 ## 📫 Let's Connect!
 
 I'm always open to discussing new opportunities, collaboration on interesting projects, or sharing knowledge about software development and computer science education.
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh.sheremetaj@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sherifsheremetaj)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sherifsheremetaj)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
